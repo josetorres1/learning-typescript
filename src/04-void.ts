@@ -1,3 +1,4 @@
+export {}
 /* void. Es lo opuesto de any. Representa la ausencia de valor. Se utiliza cuando las variables no retorna valores */
 
 // Tipo explicito
